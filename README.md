@@ -5,6 +5,7 @@
 </div>
 
 <h2> 💫 About Me: </h2>
+
 🔭 A passionate frontend developer from Yogyakarta<br>🌱 I’m currently learning **Typescript and Next.js** <br>⚡ my portofolio are available at [Here](https://github.com/Asilsay?tab=repositories)
 
 
